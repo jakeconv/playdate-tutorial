@@ -1,9 +1,0 @@
-name=Wheel Runner
-author=Jake C
-description=Wheel Runner
-bundleID=com.jakeconvery.wheelrunner
-version=1.0
-imagePath=assets/images
-buildNumber=166
-pdxversion=30000
-buildtime=818437288
