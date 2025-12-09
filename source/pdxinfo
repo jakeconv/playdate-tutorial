@@ -1,0 +1,7 @@
+name=Super Game
+author=Jake C
+description=My Super Game
+bundleID=com.jakeconvery.supergame
+version=1.0
+imagePath=assets/images
+buildNumber=166
